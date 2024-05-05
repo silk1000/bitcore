@@ -1,0 +1,15 @@
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\bin\Debug\net8.0\TreeVisualiserConsole.exe
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\bin\Debug\net8.0\TreeVisualiserConsole.deps.json
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\bin\Debug\net8.0\TreeVisualiserConsole.runtimeconfig.json
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\bin\Debug\net8.0\TreeVisualiserConsole.dll
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\bin\Debug\net8.0\TreeVisualiserConsole.pdb
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\obj\Debug\net8.0\TreeVisualiserConsole.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\obj\Debug\net8.0\TreeVisualiserConsole.AssemblyInfoInputs.cache
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\obj\Debug\net8.0\TreeVisualiserConsole.AssemblyInfo.cs
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\obj\Debug\net8.0\TreeVisualiserConsole.csproj.CoreCompileInputs.cache
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\obj\Debug\net8.0\TreeVisualiserConsole.sourcelink.json
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\obj\Debug\net8.0\TreeVisualiserConsole.dll
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\obj\Debug\net8.0\refint\TreeVisualiserConsole.dll
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\obj\Debug\net8.0\TreeVisualiserConsole.pdb
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\obj\Debug\net8.0\TreeVisualiserConsole.genruntimeconfig.cache
+c:\Users\brim\projects\TreeVisualiserConsole\TreeVisualiserConsole\obj\Debug\net8.0\ref\TreeVisualiserConsole.dll
