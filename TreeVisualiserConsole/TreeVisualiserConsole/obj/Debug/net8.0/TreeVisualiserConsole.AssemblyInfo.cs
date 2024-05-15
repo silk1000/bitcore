@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TreeVisualiserConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81be1e32c27c1596e8a372e0b0664923be785ac6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75cad2d5e5d4657a7ae803b98bd6df973ee34d96")]
 [assembly: System.Reflection.AssemblyProductAttribute("TreeVisualiserConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TreeVisualiserConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

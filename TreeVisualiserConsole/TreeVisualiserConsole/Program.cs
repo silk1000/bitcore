@@ -1,4 +1,4 @@
-﻿
+﻿using System;
 using System.Diagnostics;
 
 namespace MyProgram
@@ -7,15 +7,12 @@ namespace MyProgram
     {
         public static void Main(string[] args)
         {            
-            TreeBin tree = new TreeBin(new TreeBin.Node(0));
-            Random random = new Random();
+            TreeBin treeBin= new TreeBin(10);
 
-            for (int i = 0; i < 10; i++)
-            {
-                
-            }
+            
 
-            Console.WriteLine(":");
+            
+
         }
     }
 }
